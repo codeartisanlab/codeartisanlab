@@ -1,4 +1,5 @@
 ### Hi there 👋
-<a href="https://www.youtube.com/codeartisanlab?sub_confirmation=1">
-      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a>
+<a href="https://www.youtube.com/codeartisanlab">
+      <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg"/>
+</a>
 
