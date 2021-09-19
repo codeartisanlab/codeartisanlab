@@ -12,4 +12,8 @@
 </p>
 
 <h3>If you are enjying my work then please support me via small amount</h3>
-<a href="https://razorpay.com/payment-link/plink_HTAemkiRCBxDsx">RazorPay</a>
+<ul>
+      <li><a href="https://razorpay.com/payment-link/plink_HTAemkiRCBxDsx">RazorPay</a></li>
+      <li><a href="https://www.patreon.com/codeartisanlab">Patreon</a></li>
+</ul>
+
