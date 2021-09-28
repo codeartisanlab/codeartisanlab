@@ -9,6 +9,9 @@
       <a href="https://www.facebook.com/codelabartisan/">
             <img alt="codeartisanlab" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/240px-Facebook_logo_%28square%29.png" />
       </a>
+      <a href="https://www.paypal.me/codelabartisan/">
+            <img alt="codeartisanlab" width="30" src="https://pics.freeicons.io/uploads/icons/png/6500358661581334480-512.png" />
+      </a>
 </p>
 
 <h3>If you are enjying my work then please support me via small amount</h3>
