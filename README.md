@@ -10,7 +10,7 @@
             <img alt="codeartisanlab" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/240px-Facebook_logo_%28square%29.png" />
       </a>
       <a href="https://www.paypal.me/codelabartisan/">
-            <img alt="codeartisanlab" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/320px-PayPal.svg.png" />
+            <img alt="codeartisanlab" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/640px-PayPal.svg.png" />
       </a>
 </p>
 
