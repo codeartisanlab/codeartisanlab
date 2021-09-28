@@ -9,14 +9,12 @@
       <a href="https://www.facebook.com/codelabartisan/">
             <img alt="codeartisanlab" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/240px-Facebook_logo_%28square%29.png" />
       </a>
-      <a href="https://www.paypal.me/codelabartisan/">
-            <img alt="codeartisanlab" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/640px-PayPal.svg.png" />
-      </a>
 </p>
 
 <h3>If you are enjying my work then please support me via small amount</h3>
 <ul>
       <li><a href="https://razorpay.com/payment-link/plink_HTAemkiRCBxDsx">RazorPay</a></li>
+      <li><a href="https://www.paypal.me/codelabartisan/">PayPal</a></li>
       <li><a href="https://www.patreon.com/codeartisanlab">Patreon</a></li>
 </ul>
 
