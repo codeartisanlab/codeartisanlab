@@ -14,6 +14,6 @@
 <h3>Please support me via small donation</h3>
 <ul>
       <li><a href="https://www.paypal.me/codeartisanlab/">PayPal</a></li>
-      <li>UPI: surajkumar0859@okicici</li>
+      <li>UPI: shobhathakur0859@okaxis</li>
 </ul>
 
