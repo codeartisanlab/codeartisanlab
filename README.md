@@ -11,9 +11,9 @@
       </a>
 </p>
 
-<h3>Please support me via small donation</h3>
 <ul>
-      <li><a href="https://www.paypal.me/codeartisanlab/">PayPal</a></li>
-      <li>UPI: shobhathakur0859@okaxis</li>
+      <li>Source Code: <a href="https://projectsplaza.com/">ProjectsPlaza</a></li>
+      <li>PayPal Support: <a href="https://www.paypal.me/codeartisanlab/">PayPal</a></li>
+      <li>UPI Support: shobhathakur0859@okaxis</li>
 </ul>
 
