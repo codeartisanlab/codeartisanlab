@@ -12,7 +12,7 @@
 </p>
 
 <ul>
-      <li>PayPal Support: <a href="https://www.paypal.me/codeartisanlab/">PayPal</a></li>
-      <li>UPI Support: shobhathakur0859@okaxis</li>
+      <li>PayPal: <a href="https://www.paypal.me/codeartisanlab/">PayPal</a></li>
+      <li>UPI: shobhathakur0859@okaxis</li>
 </ul>
 
