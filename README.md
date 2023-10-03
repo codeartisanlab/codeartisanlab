@@ -9,7 +9,7 @@
 </p>
 
 <ul>
-      <li>PayPal: <a href="https://www.paypal.me/codeartisanlab/">PayPal</a></li>
+      <li>PayPal: <a href="https://www.paypal.me/codeartisanlab/">paypal.me/codeartisanlab</a></li>
       <li>UPI: shobhathakur0859@okaxis</li>
 </ul>
 
