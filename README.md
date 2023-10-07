@@ -7,7 +7,8 @@
             <img alt="codeartisanlab" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/240px-Facebook_logo_%28square%29.png" />
       </a>
 </p>
-
+<hr/>
+<h3>Support Me</h3>h3>
 <ul>
       <li>PayPal: <a href="https://www.paypal.me/codeartisanlab/">paypal.me/codeartisanlab</a></li>
       <li>UPI: shobhathakur0859@okaxis</li>
