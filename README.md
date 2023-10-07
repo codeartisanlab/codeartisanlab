@@ -8,7 +8,7 @@
       </a>
 </p>
 <hr/>
-<h3>Support Me</h3>h3>
+<h3>Support Me</h3>
 <ul>
       <li>PayPal: <a href="https://www.paypal.me/codeartisanlab/">paypal.me/codeartisanlab</a></li>
       <li>UPI: shobhathakur0859@okaxis</li>
