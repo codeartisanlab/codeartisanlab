@@ -10,7 +10,7 @@
 <hr/>
 <h3>Support Me</h3>
 <ul>
-      <li>PayPal: <a href="https://www.paypal.me/codeartisanlab1726/">paypal.me/codeartisanlab1726</a></li>
-      <li>UPI: shobhathakur0859@okaxis</li>
+      <li>Global Payment: <a href="https://www.paypal.me/codeartisanlab1726/">paypal.me/codeartisanlab1726</a></li>
+      <li>India Payment: https://razorpay.me/@codeartisanlab</li>
 </ul>
 
